@@ -23,6 +23,3 @@ h2. LiteMe - Inteligencia Energetica (_2018_)
 
 h3. Internship
 Evaluate accuracy and compliance of Smart Meters produced by LiteMe in accordance with national standards.
-
-
-h1. Research Experience

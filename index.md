@@ -16,3 +16,4 @@ For this reason, I am persuing a Master's degree in Electrical Engineering focus
 
 If you want to get in touch, just send me an [email](mailto:tenorio.vivianesgm@gmail.com). I check it more often then I probably should. :)
 
+For more details, you can check my [cv](https://tenorio-vivianesgm.github.io/Viviane-Tenorio/cv.md).
